@@ -1,0 +1,53 @@
+[
+    {
+        "modelName": "candle",
+        "displayName": "Candle",
+        "particleScaleInfo": {"flame": 0.018 }
+    },
+    {
+        "modelName": "cup",
+        "displayName": "Cup",
+        "particleScaleInfo": { }
+    },
+    {
+        "modelName": "vase",
+        "displayName": "Vase",
+        "particleScaleInfo": { }
+    },
+    {
+        "modelName": "lamp",
+        "displayName": "Lamp",
+        "particleScaleInfo": { }
+    },
+    {
+        "modelName": "chair",
+        "displayName": "Chair",
+        "particleScaleInfo": { }
+    },
+ {
+ "modelName": "BCDconv",
+ "displayName": "BCDconv",
+ "particleScaleInfo": {"root": 0.1 }
+ },
+ {
+ "modelName": "BCDstone",
+ "displayName": "BCDstone",
+ "particleScaleInfo": {"root": 0.1  }
+ },
+ {
+ "modelName": "BBC",
+ "displayName": "BBC",
+ "particleScaleInfo": {"root": 0.025}
+ },
+ {
+ "modelName": "BCDAxe",
+ "displayName": "BCDAxe",
+ "particleScaleInfo": {"root": 0.025}
+ },
+ {
+ "modelName": "MTN10179",
+ "displayName": "MTN10179",
+ "particleScaleInfo": {"root": 0.025}
+ }
+]
+
